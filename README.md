@@ -36,4 +36,4 @@ TARGET → Signing & Capabilities → Team
 	•	If building for a device, ensure your provisioning profile supports the required capabilities (Push, iCloud, etc.).
 
 📺 YouTube
-[Click here to check out the guide on YouTube](https://www.youtube.com/@NoahDoesCoding97)
+[Click here to check out the guide on YouTube](https://youtu.be/7TQpggZ6O5w)
